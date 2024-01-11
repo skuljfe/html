@@ -1,5 +1,5 @@
 # Projektna naloga pri predmetu Telekomunikacijski protokoli
-## Smart home
+## Smart home automation
 
 Izdelava centraliziranega sistema za nadzor pametne hiše.
 
